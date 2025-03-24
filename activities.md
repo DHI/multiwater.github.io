@@ -55,7 +55,7 @@ The retrieval of plant biophysical traits, such as leaf area index, is the other
 
 ## Production of outputs
 
-![Outputs](images/outputs_table.PNG "Outputs")
+![Outputs](images/output_table.PNG "Outputs")
 *MULTIWATER information products specification from the demonstrator application infrastructure when Copernicus Expansion Missions CHIME, LSTM and ROSE-L are in operation*
 
 **ET and its partitioning into evaporation and transpiration**
