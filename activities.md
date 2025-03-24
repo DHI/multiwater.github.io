@@ -22,7 +22,7 @@ The primary input data for MULTIWATER are derived from the Representative Datase
 
 Level 2 Bottom of the Atmosphere (BOA) reflectance products will be considered as primary for each representative mission. The radiometric quality of these products will be benchmarked against Sentinel-2 L2A BOA products and in situ measured hyperspectral data. From the BOA reflectances and its ancillary data (i.e. water vapour, aerosol optical thickness, acquisition geometry), biophysical traits will be derived and used in higher level products.
 
-**Land Surface Temperature** 
+**Land Surface Temperature**
 
 The Land Surface Temperature and Emissivity (LSTE) product is a standard level 2 product of the ECOSTRESS mission. The product is calculated using the Temperature-Emissivity-Separation algorithm developed by Gillespie et al. and adapted to ECOSTRESS by Hulley et al. ECOSTRESS images are originally acquired at 38 m x 69 m spatial resolution, and are resampled to 0.006 degrees (approximately 70 m x 70 m). The LST products are derived from ECOSTRESS’ 5 spectral bands at 8.28 μm, 8.63 μm, 9.07 μm, 10.6 μm, and 12.05 μm (although for some datasets only 3 spectral bands are available). Each dataset contains quality assurance flags, including a cloud contamination flag and LST accuracy, which can be used for automated masking procedures. The data needs to be assessed in terms of georeferencing accuracy, and clouds and radiometry errors need to be masked in pre-processing.
 
@@ -55,7 +55,7 @@ The retrieval of plant biophysical traits, such as leaf area index, is the other
 
 ## Production of outputs
 
-![Outputs](images/outputs_table.png "Outputs")
+![Outputs](images/outputs_table.PNG "Outputs")
 *MULTIWATER information products specification from the demonstrator application infrastructure when Copernicus Expansion Missions CHIME, LSTM and ROSE-L are in operation*
 
 **ET and its partitioning into evaporation and transpiration**
@@ -79,4 +79,3 @@ Water use efficiency will be expressed in MULTIWATER as the ratio of crop yield 
 A monitoring program of water use within irrigation schemes consists of two main components: irrigation scheme delimitation and accounting for water use within the schemes. The delimitation is particularly important in remote areas where water licensing programmes are operating, since the licensing databases might not cover all the irrigation perimeters owing to either accidental or deliberate omissions. Therefore, it cannot be ruled out that irrigation perimeters not included in the database are operating illegally and thus not accounted for when governments design and execute water management plans.
 
 Water use accounting is equally important for licensing and national water management but it can also serve the purpose of improving water use efficiency and water utilization within each irrigated area. Time series of high spatio-temporal resolution evapotranspiration and biophysical maps are critical for both delimitation and water-use accounting. Irrigation schemes show different temporal patterns of both phenology and evapotranspiration compared to surrounding natural vegetation and rain-fed croplands. These distinctions can be used within classification and machine-learning models to separate irrigated and non-irrigated vegetation. Irrigation accounting in MULTIWATER will be evaluated by combining prognostic soil water balance (SWB) models and a diagnostic of ET and topsoil moisture to estimate the net irrigation. However, SWB models are complex to calibrate as they require information about soil properties which are often neglected or assumed, and driving forces that are not easily routinely quantified, such as the irrigation input itself. We thus aim to develop an innovative methodology to calibrate the SWB model during rainfed seasons. The calibration will be used in order to characterize the physical soil properties and then apply the rainfed-driven SWB as a baseline model during the irrigation season.
-
