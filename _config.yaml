@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+logo: images/multiwater_logo.png
+title: MULTIWATER - an ESA Sentinel USers Preparation (SUP) initiative
+# description: Bookmark this to keep an eye on my project updates!
+plugins:
+  - jekyll-toc
+  
+related_blog_posts:
+  enabled: true
+  max_related: 5
