@@ -1,3 +1,9 @@
+---
+layout: default
+title: "The Team"
+rank: 4
+---
+
 # The Team
 
 The MULTIWATER team consists of three consortium partners, implementing the scientific and technical aspects of the project, and five champion users providing expert input and evaluation of the project's products.  

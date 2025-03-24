@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Project overview"
+rank: 2
+---
+
 # Project overview
 
 ## Objectives and aims

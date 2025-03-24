@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Results"
+rank: 5
+---
+
 # Results
 Here we post the most recent activities and results, ordered in chronological order from newest to oldest.
 

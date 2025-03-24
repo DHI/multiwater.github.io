@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Activities"
+rank: 3
+---
+
 # Activities
 
 The MULTIWATER project will consist of the following activities:

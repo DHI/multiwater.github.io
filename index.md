@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Home"
+rank: 1
+---
+
 # Home
 The primary objective of MULTIWATER (**MULTI**-sensor **WAT**er resource management and Sentinel Expansion missions **E**nd-user **R**eadiness) project is to develop the necessary Representative Datasets of the Sentinel Expansion Missions and use them to implement and showcase how these datasets will provide future EO information products for specific Champion User communities. Specifically, the project aim to utilise the unique multi-sensor spatial, spectral and temporal characteristics of thermal sensors (such as ECOSTRESS or Landsat TIRS), experimental hyperspectral imagers (PRISMA, EnMAP, DESIS, and EMIT), the operational SAR sensor PALSAR-2, and operational Sentinel missions (Sentinel-1/2/3) to develop novel methods addressing the growing challenges affecting the nexus of water resource management and food security in the Mediterranean and beyond (Figure 2).
 
