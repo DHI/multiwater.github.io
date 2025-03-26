@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: images/multiwater_logo.PNG
 title: MULTIWATER
-description: An ESA Sentinel Users Preparation (SUP) initiative
+description: An ESA Sentinel User Preparation (SUP) initiative
 plugins:
   - jekyll-toc
 

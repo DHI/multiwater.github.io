@@ -20,7 +20,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -45,6 +45,13 @@
 
       </section>
       <footer>
+        <p>Project manager:</br>
+        <a href="mailto:djg20@leicester.ac.uk">Darren Ghent</a>
+        </p>
+        <p>ESA Technical Officer:</br>
+        <a href="mailto:Anke.Schickling@esa.int">Anke Schickling</a>
+        </p>
+        <p>Contract No. CfP/5-50046/23/I-DT-bgh</p>
         {% if site.github.is_project_page %}
         <p>This website is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
