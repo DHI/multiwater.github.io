@@ -12,9 +12,3 @@ The Mediterranean region is highly susceptible to the impacts of climate change 
 
 ![MULTIWATER high-level overview](images/1_MULTIWATER_highlevel.jpg "MULTIWATER high-level overview")
 *High-level conceptualisation and main motivation of the derived water resource information products from the Sentinel Expansion Missions*
-
-### Table Of Contents
-- [The Project](project.html)
-- [Activitites](activities.html)
-- [The Team](team.html)
-- [Results](results.html)
